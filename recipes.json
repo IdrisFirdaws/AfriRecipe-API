@@ -1,6 +1,7 @@
 {
     "recipes": [
         {
+            "id": 1,
   "meal_name": "Nigerian Jollof Rice",
   "description": "A flavorful West African rice dish cooked in a tomato-based sauce with aromatic spices.",
   "cooking_duration": "45 minutes",
@@ -37,6 +38,7 @@
   ]
         },
         {
+            "id": 2,
   "meal_name": "Ghanaian Jollof Rice",
   "description": "A popular West African rice dish characterized by its smoky flavor and vibrant color, cooked in a tomato-based sauce with a variety of spices.",
   "cooking_duration": "50 minutes",
@@ -74,6 +76,7 @@
   ]
       },
       {
+          "id": 3,
         "meal_name": "Spaghetti Carbonara",
         "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
         "cooking_duration": "30 minutes",
@@ -96,6 +99,7 @@
         ]
       },
       {
+          "id": 4,
         "meal_name": "Chicken Stir-Fry",
         "description": "A quick and flavorful stir-fry made with tender chicken, fresh vegetables, and a savory sauce.",
         "cooking_duration": "25 minutes",
