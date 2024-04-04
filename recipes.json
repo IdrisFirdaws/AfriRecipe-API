@@ -1,46 +1,55 @@
 {
-  "careers": [
-    {
-      "id": 1,
-      "title": "Senior React Developer",
-      "salary": 50000,
-      "location": "London, UK"
-    },
-    {
-      "id": 2,
-      "title": "Plumber",
-      "salary": 40000,
-      "location": "Bowser's Castle"
-    },
-    {
-      "id": 3,
-      "title": "Gym Leader",
-      "salary": 75000,
-      "location": "Kanto Region"
-    },
-    {
-      "id": 4,
-      "title": "Vue Developer",
-      "salary": 40000,
-      "location": "Liverpool, UK"
-    },
-    {
-      "id": 5,
-      "title": "Tutorial Maker",
-      "salary": 35000,
-      "location": "Manchester, UK"
-    },
-    {
-      "id": 6,
-      "title": "Website Manager",
-      "salary": 50000,
-      "location": "Berlin, Germany"
-    },
-    {
-      "id": 7,
-      "title": "Food Tester",
-      "salary": 30000,
-      "location": "London, UK"
-    }
-  ]
-}
+    "recipes": [
+      {
+        "meal_name": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+        "cooking_duration": "30 minutes",
+        "servings": 4,
+        "ingredients": [
+          "320g spaghetti",
+          "4 large eggs",
+          "150g pancetta or guanciale",
+          "50g grated Pecorino Romano cheese",
+          "50g grated Parmesan cheese",
+          "Freshly ground black pepper"
+        ],
+        "instructions": [
+          "Bring a large pot of salted water to a boil.",
+          "Cook spaghetti according to package instructions until al dente.",
+          "While spaghetti is cooking, in a separate bowl, whisk together eggs, Pecorino Romano cheese, and Parmesan cheese. Season with black pepper.",
+          "In a skillet, cook pancetta or guanciale until crispy.",
+          "Once spaghetti is cooked, drain it and return it to the pot. Immediately add the egg mixture and cooked pancetta. Toss everything together until well combined and creamy.",
+          "Serve hot with additional grated cheese and black pepper, if desired."
+        ]
+      },
+      {
+        "meal_name": "Chicken Stir-Fry",
+        "description": "A quick and flavorful stir-fry made with tender chicken, fresh vegetables, and a savory sauce.",
+        "cooking_duration": "25 minutes",
+        "servings": 3,
+        "ingredients": [
+          "2 boneless, skinless chicken breasts, thinly sliced",
+          "2 tablespoons soy sauce",
+          "1 tablespoon oyster sauce",
+          "1 tablespoon hoisin sauce",
+          "1 teaspoon sesame oil",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 onion, sliced",
+          "1 bell pepper, sliced",
+          "1 cup broccoli florets",
+          "2 tablespoons vegetable oil",
+          "Cooked rice, for serving"
+        ],
+        "instructions": [
+          "In a small bowl, mix together soy sauce, oyster sauce, hoisin sauce, and sesame oil. Set aside.",
+          "Heat vegetable oil in a large skillet or wok over high heat.",
+          "Add chicken slices and stir-fry until cooked through. Remove from skillet and set aside.",
+          "In the same skillet, add garlic, ginger, onion, bell pepper, and broccoli. Stir-fry until vegetables are tender-crisp.",
+          "Return cooked chicken to the skillet. Pour the sauce over the chicken and vegetables. Stir well to combine and cook for another 2-3 minutes.",
+          "Serve hot over cooked rice."
+        ]
+      }
+    ]
+  }
+  
