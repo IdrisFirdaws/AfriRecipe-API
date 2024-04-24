@@ -588,6 +588,177 @@
         "Season with salt to taste.",
         "Serve the waakye hot with stewed meat or fish, fried plantains, and spaghetti. Enjoy!"
       ]
+    },
+    {
+      "id": 18,
+      "title": "Jollof Spaghetti",
+      "image": "https://www.myactivekitchen.com/wp-content/uploads/2020/07/jollof-spaghetti-recipe-1.jpg",
+      "desc": "Jollof Spaghetti is a Nigerian twist on the popular West African Jollof Rice. It's made with spaghetti instead of rice, cooked in a flavorful tomato and pepper sauce.",
+      "origin": "Nigeria",
+      "prep-time": "15 minutes",
+      "cook-time": "30 minutes",
+      "serve": "4-6 people",
+      "ingredients": [
+        "500g spaghetti",
+        "2 cups tomato stew/sauce",
+        "1 onion, chopped",
+        "1 red bell pepper, chopped",
+        "1 green bell pepper, chopped",
+        "1 cup cooked chicken or beef, shredded (optional)",
+        "1/2 cup vegetable oil",
+        "1 tsp curry powder",
+        "1/2 tsp thyme",
+        "1/2 tsp paprika",
+        "Salt and pepper to taste",
+        "Fresh parsley or green onions, chopped (for garnish)"
+      ],
+      "instructions": [
+        "Cook the spaghetti according to package instructions until al dente. Drain and set aside.",
+        "In a large skillet or pan, heat the vegetable oil over medium heat.",
+        "Add the chopped onion, red bell pepper, and green bell pepper. Sauté until softened, about 5 minutes.",
+        "Stir in the tomato stew/sauce, cooked chicken or beef (if using), curry powder, thyme, paprika, salt, and pepper. Cook for another 5 minutes.",
+        "Add the cooked spaghetti to the skillet. Stir until well coated with the sauce.",
+        "Reduce the heat to low, cover, and simmer for 10-15 minutes, stirring occasionally, until the spaghetti is heated through and infused with the flavors of the sauce.",
+        "Garnish with chopped parsley or green onions before serving. Enjoy!"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Cape Malay Curry",
+      "image": "https://www.taste.com.au/images/recipes/nbu/2010/06/cauliflower-potato-and-pea-curry-22786_l.jpeg",
+      "desc": "Cape Malay Curry is a fragrant and spicy curry dish that originated in the Cape Malay community of South Africa. It's typically made with a blend of aromatic spices and served with rice.",
+      "origin": "South Africa",
+      "prep-time": "20 minutes",
+      "cook-time": "45 minutes",
+      "serve": "4-6 people",
+      "ingredients": [
+        "2 tbsp vegetable oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "2 tomatoes, chopped",
+        "2 tbsp Cape Malay curry powder",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "1/2 tsp ground turmeric",
+        "1/4 tsp ground cinnamon",
+        "1/4 tsp ground cardamom",
+        "1/4 tsp ground cloves",
+        "1 cup vegetable broth",
+        "1 can (14 oz) coconut milk",
+        "2 potatoes, peeled and diced",
+        "2 carrots, peeled and diced",
+        "1 cup green beans, trimmed and halved",
+        "Salt and pepper to taste",
+        "Fresh cilantro, chopped (for garnish)"
+      ],
+      "instructions": [
+        "In a large pot or Dutch oven, heat the vegetable oil over medium heat.",
+        "Add the onion, garlic, and ginger. Sauté until softened, about 5 minutes.",
+        "Stir in the chopped tomatoes, curry powder, cumin, coriander, turmeric, cinnamon, cardamom, and cloves. Cook for another 2-3 minutes.",
+        "Pour in the vegetable broth and coconut milk. Bring to a simmer.",
+        "Add the diced potatoes and carrots to the pot. Cover and simmer for 20-25 minutes, or until the vegetables are tender.",
+        "Add the green beans to the pot. Simmer for an additional 5 minutes.",
+        "Season with salt and pepper to taste.",
+        "Garnish with chopped cilantro before serving. Enjoy with rice or bread!"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Suya",
+      "image": "https://www.afrolems.com/wp-content/uploads/2018/10/Suya-Nigerian-Food-Grilled-Meat-African-Food-Afrolems.jpg",
+      "desc": "Suya is a popular West African street food made of skewered and grilled meat, typically seasoned with a spicy peanut marinade.",
+      "origin": "West Africa",
+      "prep-time": "15 minutes",
+      "cook-time": "15 minutes",
+      "serve": "4-6 people",
+      "ingredients": [
+        "1 lb beef or chicken, thinly sliced",
+        "1/4 cup groundnut (peanut) powder",
+        "2 tbsp ground cayenne pepper",
+        "1 tbsp paprika",
+        "1 tbsp garlic powder",
+        "1 tbsp onion powder",
+        "1 tbsp ginger powder",
+        "1/2 tsp salt",
+        "1/4 cup vegetable oil",
+        "Skewers, for grilling",
+        "Sliced onions and tomatoes (for serving)"
+      ],
+      "instructions": [
+        "If using wooden skewers, soak them in water for at least 30 minutes to prevent burning.",
+        "In a bowl, combine the groundnut powder, cayenne pepper, paprika, garlic powder, onion powder, ginger powder, and salt to make the suya spice blend.",
+        "Thread the thinly sliced meat onto the skewers, folding and layering it to create even thickness.",
+        "Brush the meat skewers with vegetable oil.",
+        "Rub the suya spice blend onto the meat, coating it evenly on all sides.",
+        "Preheat a grill or grill pan to medium-high heat.",
+        "Grill the suya skewers for 5-7 minutes on each side, or until cooked through and slightly charred.",
+        "Serve hot with sliced onions and tomatoes. Enjoy the spicy, flavorful goodness of suya!"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Moroccan Chickpea Stew",
+      "image": "https://www.feastingathome.com/wp-content/uploads/2020/03/Moroccan-Chickpea-Stew-3.jpg",
+      "desc": "Moroccan Chickpea Stew is a hearty and comforting dish made with chickpeas, tomatoes, and a blend of warm spices. It's perfect for chilly evenings and pairs well with couscous or crusty bread.",
+      "origin": "Morocco",
+      "prep-time": "15 minutes",
+      "cook-time": "30 minutes",
+      "serve": "4-6 people",
+      "ingredients": [
+        "2 tbsp olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "1 can (14 oz) chickpeas, drained and rinsed",
+        "1 can (14 oz) diced tomatoes",
+        "2 cups vegetable broth",
+        "1 sweet potato, peeled and diced",
+        "1 carrot, peeled and diced",
+        "1 zucchini, diced",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "1/2 tsp ground cinnamon",
+        "1/4 tsp ground turmeric",
+        "Salt and pepper to taste",
+        "Fresh cilantro or parsley, chopped (for garnish)"
+      ],
+      "instructions": [
+        "In a large pot or Dutch oven, heat the olive oil over medium heat.",
+        "Add the chopped onion, garlic, and ginger. Sauté until softened, about 5 minutes.",
+        "Stir in the chickpeas, diced tomatoes, vegetable broth, sweet potato, carrot, zucchini, cumin, coriander, cinnamon, turmeric, salt, and pepper.",
+        "Bring the stew to a simmer, then reduce the heat to low. Cover and simmer for 20-25 minutes, or until the vegetables are tender.",
+        "Taste and adjust seasoning if necessary.",
+        "Garnish with chopped cilantro or parsley before serving. Enjoy with couscous or crusty bread!"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Kenyan Chapati",
+      "image": "https://www.pikaajaloo.com/wp-content/uploads/2020/09/Chapati-Chicken-Koroga-Pikaajaloo-3-1024x768.jpg",
+      "desc": "Chapati is a type of unleavened flatbread that originated in India but is also popular in East African cuisine. Kenyan Chapati is soft, flaky, and delicious, perfect for scooping up stews and curries.",
+      "origin": "Kenya",
+      "prep-time": "20 minutes",
+      "cook-time": "30 minutes",
+      "serve": "4-6 people",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup warm water",
+        "1 tbsp vegetable oil",
+        "1/2 tsp salt",
+        "Extra flour for dusting",
+        "Butter or ghee (optional, for serving)"
+      ],
+      "instructions": [
+        "In a large bowl, combine the all-purpose flour and salt.",
+        "Make a well in the center of the flour mixture and pour in the warm water and vegetable oil.",
+        "Mix until a dough forms, adding more flour or water if necessary to achieve a smooth, elastic consistency.",
+        "Divide the dough into equal-sized balls. Roll each ball into a thin circle on a lightly floured surface, using a rolling pin.",
+        "Heat a skillet or griddle over medium heat. Place a chapati on the skillet and cook until bubbles form, about 1-2 minutes.",
+        "Flip the chapati and cook for another 1-2 minutes, until golden brown spots appear on both sides.",
+        "Repeat with the remaining dough balls, stacking the cooked chapatis on a plate and covering them with a clean kitchen towel to keep warm.",
+        "Serve hot with butter or ghee, if desired. Enjoy the soft and flaky goodness of Kenyan Chapati!"
+      ]
     }
   ]
 }
